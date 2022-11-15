@@ -17,6 +17,7 @@ function SearchBar() {
                 <IoIosArrowDown />
             </div>
         </div>
+        
     );
 }
 
